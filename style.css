@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+img {
+    box-sizing: border-box;
+    width: 100%;
+    border: 5px solid white;
+}
+.poster {
+  box-sizing: border-box;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h1 {
+    text-transform: uppercase;
+}
+p {
+  text-transform: capitalize;
+}
